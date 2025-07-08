@@ -1,4 +1,4 @@
-# SEOgenius: AI SEO Content Automation Platform
+# AIOptimize: AI SEO Content Automation Platform
 
 > **Revolutionize your SEO workflow with AI-powered content, keyword research, clustering, and export—all in one beautiful, no-code platform.**
 
